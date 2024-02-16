@@ -13,6 +13,7 @@ TaskMaster es una aplicación de lista de tareas diseñada para ayudar a organiz
 - Organización de las tareas por categorías o prioridades.
 - Seguimiento del progreso y la completitud de las tareas.
 - Sincronización de datos entre dispositivos para acceder a tus listas desde cualquier lugar.
+  
 ####Aplicaciones similares
 1. [Todoist](https://play.google.com/store/apps/details?id=com.todoist&hl=es_CO&gl=US&pli=1)
 2. [Any.do](https://play.google.com/store/apps/details?id=com.anydo&hl=es_CO&gl=US)
@@ -29,6 +30,7 @@ Mindful Moments es una aplicación de mindfulness y bienestar diseñada para ayu
 - Seguimiento del estado de ánimo y emociones para identificar patrones y tendencias.
 - Consejos y artículos sobre mindfulness y bienestar emocional.
 - Comunidad en línea para compartir experiencias y apoyarse mutuamente en el camino hacia una vida más consciente y equilibrada.
+  
 ####Aplicaciones similares
 1. [Headspace](https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl=es&gl=US)
 2. [Calm](https://play.google.com/store/apps/details?id=com.calm.android&hl=es_CO&gl=US)
