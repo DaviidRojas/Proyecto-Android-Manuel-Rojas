@@ -13,6 +13,7 @@ TaskMaster es una aplicación de lista de tareas diseñada para ayudar a organiz
 - Organización de las tareas por categorías o prioridades.
 - Seguimiento del progreso y la completitud de las tareas.
 - Sincronización de datos entre dispositivos para acceder a tus listas desde cualquier lugar.
+[![logo-taskmaster.jpg](https://i.postimg.cc/Pf2jwzSN/logo-taskmaster.jpg)](https://postimg.cc/nMjg87bt)
   
 #### Aplicaciones similares
 1. [Todoist](https://play.google.com/store/apps/details?id=com.todoist&hl=es_CO&gl=US&pli=1)
